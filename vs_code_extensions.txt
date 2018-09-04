@@ -1,0 +1,4 @@
+jack-pallot.atom-dark-syntax
+ms-vscode.atom-keybindings
+PKief.material-icon-theme
+wayou.vscode-todo-highlight
