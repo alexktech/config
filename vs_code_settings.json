@@ -1,0 +1,17 @@
+{
+  "atomKeymap.promptV3Features": true,
+  "editor.formatOnPaste": true,
+  "editor.minimap.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.tabSize": 2,
+  "extensions.ignoreRecommendations": true,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "html.suggest.html5": true,
+  "keyboard.dispatch": "keyCode",
+  "terminal.integrated.cwd": "INSERT_PROJECT_PATH_HERE",
+  "todohighlight.keywords": ["todo", "TODO", "@todo", "@TODO", "ToDo", "@ToDo"],
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Atom Dark Syntax",
+  "workbench.iconTheme": "material-icon-theme"
+}
